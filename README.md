@@ -10,4 +10,4 @@ Python, Go, Kotlin을 할 줄 알고, JavaScript도 배우는 중이에요!
 
 ![](https://github-readme-stats.vercel.app/api?username=simsimler&show_icons=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=simsimler&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simsimler&layout=compact&theme=dark)

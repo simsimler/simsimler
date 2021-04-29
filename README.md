@@ -1,12 +1,10 @@
-# 안녕하세요! 👋
+#  👋
 
-### 전 학생 개발자 심심러에요.
-* * *
-### 저는
-Python, Go, Kotlin을 할 줄 알고, JavaScript도 배우는 중이에요! 
-* * *
-### 저는 지금
-디스코드 음악 봇 [초록](https://koreanbots.dev/bots/770246143652397069)을 개발하고 있어요!
+## Dev Languages
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=simsimler&show_icons=true&theme=dark)
 

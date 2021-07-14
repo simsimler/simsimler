@@ -17,4 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simsimler&layout=compact&theme=dark)
 
 ## Spotify
-[Spotify](https://open.spotify.com/user/lr2pplj4pworke2njg70g1xh9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/lr2pplj4pworke2njg70g1xh9)

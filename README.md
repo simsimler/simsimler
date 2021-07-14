@@ -15,3 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=simsimler&show_icons=true&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simsimler&layout=compact&theme=dark)
+
+## Spotify
+[Spotify](https://open.spotify.com/user/lr2pplj4pworke2njg70g1xh9)
